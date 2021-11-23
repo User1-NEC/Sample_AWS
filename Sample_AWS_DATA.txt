@@ -1,0 +1,14 @@
+
+User name	Console Password	Access key ID		Secret access key				Bucket Details
+dummy1		yBw^4(kr_mnN8RZ		AKIA4UGPQ7Y6YTECL7X5	OC2wIMlneri4ZOS39UDnHJ6riv7yj1XUYcQtJVii	s3://randombucketew/dummyrandom1/
+dummy2		y#$-05zY=mKOtJh		AKIA4UGPQ7Y76GUK6XVC	LP5sKxCtKMSqY8CbJxVzWHHbCI2v746fBGSiZvdf	s3://randombucketew/dummyrandom2/
+dummy3		y(BTAyk9jb+z!OI		AKIA4UGPQ7YXSDFXGLDD	OhF2WzzY3LUpDhyNf7uAxJYDqNkQTvl6qAI+yaej	s3://randombucketew/dummyrandom3/
+
+password = yBw^4(kr_mnN8tt
+pwd= y#$-05zY=mKOYT
+passwd = y(BTAyk9jb+z66
+
+
+
+
+
